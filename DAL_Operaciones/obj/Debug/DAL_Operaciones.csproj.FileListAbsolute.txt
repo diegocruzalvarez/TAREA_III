@@ -1,0 +1,6 @@
+D:\universidad\Quinto  Catri\Progra 3\visual_studio C#\Tarea_III\DAL_Operaciones\bin\Debug\DAL_Operaciones.dll
+D:\universidad\Quinto  Catri\Progra 3\visual_studio C#\Tarea_III\DAL_Operaciones\bin\Debug\DAL_Operaciones.pdb
+D:\universidad\Quinto  Catri\Progra 3\visual_studio C#\Tarea_III\DAL_Operaciones\obj\Debug\DAL_Operaciones.csproj.CoreCompileInputs.cache
+D:\universidad\Quinto  Catri\Progra 3\visual_studio C#\Tarea_III\DAL_Operaciones\obj\Debug\DAL_Operaciones.dll
+D:\universidad\Quinto  Catri\Progra 3\visual_studio C#\Tarea_III\DAL_Operaciones\obj\Debug\DAL_Operaciones.pdb
+D:\universidad\Quinto  Catri\Progra 3\visual_studio C#\Tarea_III\DAL_Operaciones\obj\Debug\DAL_Operaciones.csproj.AssemblyReference.cache
