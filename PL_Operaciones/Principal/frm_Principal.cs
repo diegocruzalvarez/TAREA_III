@@ -80,6 +80,7 @@ namespace PL_Operaciones.Principal
     }
         private void txt_B_Leave(object sender, EventArgs e)
         {
+            MessageBox.Show("Primer cambio");
          
             Validacion_de_Textos(txt_B);
         }
