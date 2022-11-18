@@ -80,7 +80,7 @@ namespace PL_Operaciones.Principal
     }
         private void txt_B_Leave(object sender, EventArgs e)
         {
-            MessageBox.Show("Se creo nueva rama");
+            MessageBox.Show("Se creo nueva rama Hi");
          
             Validacion_de_Textos(txt_B);
         }
